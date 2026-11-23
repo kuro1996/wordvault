@@ -76,7 +76,9 @@ word with zero backend. Packaged as a Devvit Web app (Interactive Post).
 ## Built with
 HTML, CSS, JavaScript, Devvit Web (Reddit Developer Platform)
 
-## Links (fill in after publishing)
-- App listing: https://developers.reddit.com/apps/wordvault (TODO — user step)
-- GitHub repo: https://github.com/kuro1996/wordvault (TODO — user step)
-- Demo video: (optional, 2 min max — record a playthrough of ?demo=win)
+## Links
+- GitHub repo: https://github.com/kuro1996/wordvault (public, MIT)
+- Playable demo (web): https://kuro1996.github.io/wordvault/ (same build as the Devvit app)
+- App listing: https://developers.reddit.com/apps/wordvault (TODO — needs Devvit publish, user Reddit account)
+- Demo post: (TODO — public test subreddit post running the game, user step)
+- Demo video: optional, <1 min, must be on YouTube/Vimeo/Facebook/Youku (record a playthrough of ?demo=win)
