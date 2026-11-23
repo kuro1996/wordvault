@@ -81,4 +81,7 @@ HTML, CSS, JavaScript, Devvit Web (Reddit Developer Platform)
 - Playable demo (web): https://kuro1996.github.io/wordvault/ (same build as the Devvit app)
 - App listing: https://developers.reddit.com/apps/wordvault (TODO — needs Devvit publish, user Reddit account)
 - Demo post: (TODO — public test subreddit post running the game, user step)
-- Demo video: optional, <1 min, must be on YouTube/Vimeo/Facebook/Youku (record a playthrough of ?demo=win)
+- Demo video: RECORDED 2026-11-23: `demo-video.mp4` (39 s, 1280x720, English
+  narration, real gameplay ?demo=win + share + stats + practice — script in
+  `record_demo.py`). Under the 1-min limit. Upload to YouTube/Vimeo/Facebook/
+  Youku and paste the link (optional but recommended).
